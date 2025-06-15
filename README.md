@@ -1,5 +1,7 @@
-# ToDo App
-A simple and modern To-Do List application built with React, Vite, and Tailwind CSS.
+# Listlify React
+
+A simple and modern To-Do List application built with **React**, **Vite**, and **Tailwind CSS**.  
+[Check out the live app](https://listlify-app.netlify.app/)
 
 <img src="demo.png" alt="App demo">
 

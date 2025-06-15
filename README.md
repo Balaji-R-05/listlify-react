@@ -24,8 +24,8 @@ A simple and modern To-Do List application built with React, Vite, and Tailwind 
 ### Installation
 
 ```sh
-git clone https://github.com/Balaji-R-05/todo-app.git
-cd todo-app
+git clone https://github.com/Balaji-R-05/listlify-react.git
+cd listlify-react
 npm install
 npm run dev
 ```

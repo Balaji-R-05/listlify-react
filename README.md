@@ -1,6 +1,7 @@
 # ToDo App
-
 A simple and modern To-Do List application built with React, Vite, and Tailwind CSS.
+
+<img src="demo.png" alt="App demo">
 
 ## Features
 - Add, complete, and delete tasks

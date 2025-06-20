@@ -75,7 +75,7 @@ const Todo = () => {
             </div>
 
             {/* ToDo List */}
-            <div>
+            <div className='flex-1 min-h-[200px] max-h-[320px] overflow-y-auto py-3'>
                 {todoList.map((item, index) => (
                     <TodoItems key={index} id={item.id} text={item.text} isComplete={item.isComplete} deleteTodo={deleteTodo} toggle={toggle} />
                 ))}

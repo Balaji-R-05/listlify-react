@@ -4,7 +4,11 @@ A minimal, premium, and fully-responsive To-Do List application built with **Rea
 
 [✨ Check out the live app](https://listlify-app.netlify.app)
 
-<img src="demo.png" alt="App demo" width="600">
+<p align="center">
+  <img src="main.png" alt="App screenshot" height="400" />
+  &nbsp;
+  <img src="todo.png" alt="App demo" height="400" />
+</p>
 
 ## Features
 
@@ -65,5 +69,4 @@ Ensure you have the following installed:
    ```
    The app should now be running locally at `http://localhost:5173`.
 
----
-*Built with ❤️ by Balaji*
+<!-- *Built with ❤️ by Balaji* -->

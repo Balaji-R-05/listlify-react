@@ -20,7 +20,7 @@ const TodoItems = ({text, id, isComplete, deleteTodo, toggle, editTodo}) => {
     if (e.key === 'Enter') handleEditComplete();
     else if (e.key === 'Escape') {
       setIsEditing(false);
-      setEditText(text); // Cancel edit
+      setEditText(text);
     }
   };
 

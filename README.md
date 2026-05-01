@@ -2,12 +2,11 @@
 
 A minimal, premium, and fully-responsive To-Do List application built with **React**, **Vite**, and **Tailwind CSS**. Designed to help you stay organized with a polished UI, smart sorting, and full keyboard accessibility.
 
-[✨ Check out the live app](https://listlify-app.netlify.app)
+[✨ Check out the live app](https://listlify.netlify.app)
 
 <p align="center">
-  <img src="main.png" alt="App screenshot" height="400" />
-  &nbsp;
-  <img src="todo.png" alt="App demo" height="400" />
+  <img src="main.png" alt="App screenshot" height="400" width="400" />
+  <img src="todo.png" alt="App demo" height="400" width="400" />
 </p>
 
 ## Features
